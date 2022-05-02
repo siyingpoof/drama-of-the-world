@@ -1,5 +1,9 @@
 tag: economics
 tags:
   - tag: politics
+    name: politics
   - tag: social
+    name: economics
   - tag: market
+    name: social
+  - name: market
